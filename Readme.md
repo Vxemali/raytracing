@@ -34,7 +34,7 @@ pkgs.mkShell {
 }
 
 ```
-
+Or just clone this repo and use shell.nix
 ### Compilation
 
 Compile the source code by linking Raylib and math libraries:
