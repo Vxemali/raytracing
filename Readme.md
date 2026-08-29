@@ -2,7 +2,7 @@
 
 # Minimal Raytracer
 
-A lightweight, CPU-based raytracer written in C using [Raylib](https://www.raylib.com/). It renders a procedurally shaded 3D sphere with real-time animation and basic diffuse lighting entirely on the CPU, updating an image buffer transferred to the GPU each frame.
+A lightweight, CPU-based raytracer written in C using [Raylib](https://www.raylib.com/). It renders a procedurally shaded 3D sphere with animation and basic diffuse lighting entirely on the CPU, updating an image buffer transferred to the GPU each frame.
 
 ## Features
 
